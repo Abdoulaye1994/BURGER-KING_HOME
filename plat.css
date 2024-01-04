@@ -1,0 +1,23 @@
+header {
+    background: cadetblue;
+    text-align: center;
+}
+   
+.plat1 {
+    display: flex;
+    justify-content: center;
+}
+.plate img {
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0 9px black;
+    width: 250px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin: 20px;
+    text-decoration: center;
+}
+.burger_1{
+    display: flex;
+    
+}

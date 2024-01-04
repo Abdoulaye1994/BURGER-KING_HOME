@@ -1,0 +1,77 @@
+header {
+    background-image: url(home.jpg);
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 22px;
+    
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: black;
+    
+}
+
+p {
+    font-size: 30px;
+    color: black;
+}
+
+form {
+    background-image: url(copie.jpg);
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.contenaire {
+    background-image: url(copie.jpg);
+    text-align: center;
+    background-color: rgb(206, 217, 50);
+    margin-top: 9px;
+    margin-bottom: 9px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sub {
+    background-color: brown;
+    border-radius:  9px;
+    font-size: 30px;
+    text-align: center;
+    transition: 0.5s ease-out;
+    
+}
+
+.sub:hover {
+    transform: scale(1.05);
+}
+
+
+.passe {
+     border-radius: 9px;
+    font-size: 30px; 
+    transition: 0.5s ease-out;
+}
+
+.passe:hover {
+    transform: scale(1.05);
+}
+
+
+button {
+    border-radius: 9px;
+    font-size: 30px; 
+    transition: 0.5s ease-out;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+.compte {
+    font-size: 30px;
+}

@@ -1,0 +1,50 @@
+header {
+    border: 2px solid blanchedalmond;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 150px;
+    background-image: url(home.jpg);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: black;
+    
+}
+
+p {
+    font-size: 30px;
+    color: black;
+}
+
+.Client {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.contenaire {
+    background: rgb(213, 213, 167);
+    display: flex;
+    justify-content: center;
+}
+
+.box img {
+    box-shadow: 0 0 9px black;
+    width: 250px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    margin: 20px;
+    transition: 0.5s ease-out;
+}
+
+.box img:hover {
+    transform: scale(1.05);
+}
+
+.logo {
+    width: 70px;
+    margin-left: -10%;
+    margin-left: 2px;
+}
